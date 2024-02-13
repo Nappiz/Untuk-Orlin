@@ -74,20 +74,20 @@ html{
 
 section .gambar1{
   border-radius: 10px;
-  width: 100px;
-  height: 100px;
+  width: 300px;
+  height: 300px;
 }
 
 section .gambar2{
   border-radius: 10px;
-  width: 100px;
-  height: 100px;
+  width: 300px;
+  height: 300px;
 }
 
 section .gambar3{
   border-radius: 10px;
-  width: 128px;
-  height: 72px;
+  width: 384px;
+  height: 216px;
 }
 
 section .ucapan{
